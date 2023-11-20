@@ -1,0 +1,27 @@
+Categorization of Operators:
+    1.Arithematic operators: Addition('+'), Subtraction('-'), Multiplication('*'), Divison('/') and others enable the
+     mathematical operations, making it possible to perform calculations within the programs.
+    Example: let result=2+3;//result will be 5
+    2.Assigning Operators:('=') Assigns a value to a variable, allowing the storage and manipulation of data.
+    Example: let x=10;//Assigns the value 10 to the variable x
+    3.Comparison Operators:('<' '>' '===' '==' '!=')
+      Compares the values and returns a Boolean result either true or false.
+      Example: let isGreaterthan=5>3;//isGreaterthan will be true
+    4.Logical Operators:('&&' '||' '!')
+      Combines or negates Booelan values to make logical decisions in the code.
+      Example: let isTrue=true;
+               let isFalse=false;
+               let combined=isTrue && isFalse;//combined will be false
+    5.Incrementing and Decrementing Operators:('++' '--')
+      Increases or decreases the value of a variable by 1;
+      Example: let count=5;
+               count++;//count is now 6
+    6.Concatenating Strings ('+')
+       Combines the strings together
+       Example:let firstName="Sai";
+               let lastName="Kiran";
+               let fullName=firstName + " " + lastName;//fullName will be Sai Kiran
+    7.Bitwise Operators:('&' '|' '^' '<<' '>>')
+       Perform operations at the bitlevel, which is useful in certain low-level programming scenarios
+       Example: let bitWiseResult=5&3; //bitwise result will be 1
+                       

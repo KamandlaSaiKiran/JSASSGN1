@@ -1,0 +1,10 @@
+Precedence and Associativity are important concepts in understanding how operators are evaluated in JavaScript expressions.
+1.Precedence:
+    Definition: Precendence determines the order in which the operators are evaluated when more than one type of operator
+                appears in an expression.
+                Example:let result=5+3*2;
+                In this example, multiplication('*') has a higher precedence than addition. Therefore, the multiplication
+                is performed is performed first, and the result is 11(3*2) before adding it to '5'.
+2.Associativity:
+    Definition: Associativity comes into play when operators of the same precedence appear in an expression. Most of the
+                operators in JavaScript are left-associative, meaning they are evaluated from left to right.

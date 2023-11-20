@@ -1,0 +1,4 @@
+Operators in JavaScript are symbols for keywords that perform operations on operands, which can be values or variables
+They play a crucial role in programming for several reasons.
+Operators are essential in programming because they provide a means to manipulate and work with data in various ways.
+They allow developers to perform calculations, make decisions based on conditions, and control the flow of the program.

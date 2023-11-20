@@ -1,0 +1,21 @@
+Choosing the meaningful and descriptive variable names in JavaScript is crucial for code readibility, maintainability
+and collaboration. Clear identifiers convey the purpose and content of variables, making it easier to developers to understand
+the code both during development and when returining to it later.
+Here's an example to illustrate the importance of meaningful variable names
+ Non-Descriptive variable names
+     let x=10;
+     let y=5;
+     let z=x+y;
+     //What does z represnts 
+     In this example, the varaible name 'x' and 'y' and 'z' are not descriptive. Its unclear what these variables 
+     represent or what the purpose of the calcualtion without additional context.
+Descriptive Variable names
+  let numberOfApples=10;
+  let numberOfOranges=5;
+  let totalFruits=numberOfApples+numberOfOranges;
+  //clearly indicates the purpose of the calcualtion
+  Importance of Descriptive Variable names:
+  1. Readability
+  2. maintainability
+  3. Communication
+  4. Avoiding Ambigiuity
